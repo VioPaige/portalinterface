@@ -2,5 +2,13 @@
   "version": "v1.0.0",
   "notes": "Test version",
   "pub_date": "2020-06-22T19:25:57Z",
-  "platforms": {}
+  "platforms": {
+      "windows-x86_64": {
+          "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU2tUeC92S3lmSEp2WXZLdGt1TTVRRXhyR1lhY1hXcmlIZys4dVVTSVJRNE5GcTRIUWludTJrRkFJT1hrU3BHWGRoaWpja2tjVjU3b1pha2JmbUhhUEZCeXBoaHhVakFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5Nzc3ODcwCWZpbGU6UG9ydGFsIEludGVyZmFjZV8wLjAuMF94NjRfZW4tVVMubXNpLnppcApJNGRVaXhSRU53V3hrQjF5NDhlWjMvL3cyRFRuM3ltZUdQSGs4Z05iYXEvUXBpeEx2bkZZUkR0UTZWcmFDSjQ1aGRDVjY5S2RlYkM1azBsQXNjZlpDUT09Cg==",
+          "url": "https://github.com/VioPaige/portalinterface/releases/download/V0.0.0/Portal.Interface_0.0.0_x64_en-US.msi.zip",
+          "notes": "Testing extra release update",
+          "pub_date": "2023-03-25T21:03:00.00Z",
+          "version": "v0.0.1"
+      }
+  }
 }
