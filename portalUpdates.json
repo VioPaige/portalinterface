@@ -1,13 +1,13 @@
 {
-  "version": "v0.1.0",
-  "notes": "Test version",
+  "version": "v0.1.1",
+  "notes": "Full Alpha version",
   "pub_date": "2020-06-22T19:25:57Z",
   "platforms": {
       "windows-x86_64": {
-          "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU2tUeC92S3lmSENJTVAxODJ6NW1jaVZYalAyRG81VUV0a3drUm5RaFJMMVRwM3dBMGxoN2VOZVF6SEkySnhYRUFCZHkwRWdzZ0hhZ0h3MTM0UmZPRE9FZktNSXQ0bnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5NzgwNjE2CWZpbGU6UG9ydGFsIEludGVyZmFjZV8wLjEuMF94NjRfZW4tVVMubXNpLnppcAovTHdzN3BTT2JTeGVGaW03SHQrQXAvbFJ4YTN2M2lYTWtXTXMzMi94WGE2YXNoRDM3eDRKclA2bXBXM3FNRjVxOTV4MzMraU0zVXk2bXAzMy9JR1ZCUT09Cg==",
-          "url": "https://github.com/VioPaige/portalinterface/releases/download/V0.1.0/Portal.Interface_0.1.0_x64_en-US.msi.zip",
-          "notes": "Portal executable added to release",
-          "pub_date": "2023-03-25T21:45:00.00Z"
+          "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU2tUeC92S3lmSExPT2FkTkFtT1JpcHYxUVJ0RkpLdDlscXZXcEJrYldDVmZXL3V2SHAxQmpBNlAzSTlwZlRCSWZUOXNnbElUOG5lUnp5VE1tZVB6Y3NIL29VTVZHcndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc5ODA2NzMyCWZpbGU6UG9ydGFsIEludGVyZmFjZV8wLjEuMV94NjRfZW4tVVMubXNpLnppcApiYUZ4QlFVREhCdkNTSC9xd3l4NmNrWDVJVGN3V2JicnBvZmkvQUszOEh5QkJ5NDZhcURrR2hGc1NVcmZwWlJacU9zMmwxdksyNEpLNWpWdnRMVHBEdz09Cg==",
+          "url": "https://github.com/VioPaige/portalinterface/releases/download/V0.1.1/Portal.Interface_0.1.1_x64_en-US.msi.zip",
+          "notes": "Full Alpha version",
+          "pub_date": "2023-03-26T05:59:00.00Z"
       }
   }
 }
